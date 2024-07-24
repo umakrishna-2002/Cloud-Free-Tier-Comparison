@@ -35,7 +35,8 @@ Homepage: [AWS Free Tier](https://aws.amazon.com/free/)
 - Amazon DynamoDB (NoSQL): 25 GB of storage
 - AWS Lambda (FaaS): 1 Million free requests per month
 - Amazon SNS: 1 Million publishes
-
+- Amazon S3 and EFS(Elastic File System) 5GB Storage for tweleve months
+- 
 ## 2. Azure
 
 Homepage: [Azure Free Tier](https://azure.microsoft.com/en-us/free/)
